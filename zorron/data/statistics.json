@@ -1,0 +1,9 @@
+{
+	"std" : "DESVIACION ESTANDARD",
+	"min" : "MINIMA",
+	"max" : "MAXIMA",
+	"sum" : "SUMA",
+	"sig" : "DESVIACION ESTANDAR",
+	"hr" :  "HORA DE OCURRENCIA",
+	"mean" : "PROMEDIO"
+}

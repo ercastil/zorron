@@ -1,0 +1,18 @@
+{
+
+	"acciona" : {
+			"description": "Acciona AW 70/1500 Class II",
+			"manufacturer": "Acciona",
+			"website": "www.acciona.es",
+			"rotorDiameter": 70,
+			"ratedPower": 1500,
+			"notes": "Tom Lambert took this information from a product brochure in June 2007.  He digitized the power curve from a graph in the brochure.  ",
+			"referenceDensity": 1.225,
+			"curve" : {
+
+				"velocity": [0,0.5,1,1.5,2,2.5,3,3.5,4,4.5,5,5.5,6,6.5,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5,14,14.5,15,15.5,16,16.5,17,17.5,18,18.5,19,19.5,20,20.5,21,21.5,22,22.5,23,23.5,24,24.5,24.99,25],
+
+				"power": [0,0,0,0,0,0,0,21,48,83,129,174,227,293,367,455,550,653,755,879,997,1127,1290,1423,1494,1497,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,1500,0]
+			}
+		     }
+}

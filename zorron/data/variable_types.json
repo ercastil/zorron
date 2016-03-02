@@ -1,0 +1,19 @@
+{
+	"bvlt" : {"name": "VOLTAJE BATERIA", "unit": "V"},
+	"rdni" : {"name": "RADIACION DIRECTA NORMAL", "unit": "kW/m2"},
+	"temp" : {"name": "TEMPERATURA", "unit": "Celcius"},
+	"tint" : {"name": "TEMPERATURA INTERNA", "unit": "Celcius"},
+	"vels" : {"name": "VELOCIDAD VIENTO", "unit": "m/s"},
+	"rglb_ta" : {"name": "RADIACION SOLAR GLOBAL EN SEGUIMIENTO", "unit": "kW/m2"},
+	"dirv" : {"name": "DIRECCION VIENTO", "unit": "Grados"},
+	"rnet" : {"name": "RADIACION NETA", "unit": "kW/m2"},
+	"velv" : {"name": "VELOCIDAD VECTORIAL", "unit": "m/s"},
+	"hrel" : {"name": "HUMEDAD RELATIVA", "unit": "%"},
+	"rglb" : {"name": "RADIACION SOLAR GLOBAL HORIZONTAL", "unit": "kW/m2"},
+	"rdif_ta" : {"name": "RADIACION SOLAR DIFUSA SEGUIMIENTO", "unit": "kW/m2"},
+	"pres" : {"name": "PRESION ATMOSFERICA", "unit": "hPa"},
+	"rdif" : {"name": "RADIACION SOLAR DIFUSA", "unit": "kW/m2"},
+	"prec" : {"name": "PRECIPITACION", "unit": "mm"},
+	"snwh" : {"name": "ALTURA NIEVE", "unit": "m"},
+	"wetb" : {"name": "TEMPERATURA BULBO HUMEDO","unit": "Celcius"}
+}
